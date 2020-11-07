@@ -1,3 +1,5 @@
+some new data on master
+
 new file
 some new text
 some another text
