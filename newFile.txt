@@ -1,1 +1,3 @@
 new file
+some new text
+some another text
